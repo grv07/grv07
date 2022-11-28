@@ -1,4 +1,4 @@
-### Hi there 👋 I am Gaurav Tyagi
+### Hi there 👋
 
 <!--
 **grv07/grv07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
